@@ -10,7 +10,21 @@ a {
 nav {
     text-align: center;
     font-size: larger;
-    background-color: aquamarine;
+    background-color: rgba(127, 255, 200, 0.521);
     padding: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+td, th {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
+#table {
+    margin-left: 600px;
 }
